@@ -1,1 +1,1 @@
-# react-basic-flashcardGame-todoApp
+# Exploring React Basics
